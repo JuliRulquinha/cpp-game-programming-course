@@ -1,0 +1,3 @@
+﻿  cpp-game-programming-course.cpp
+C:\Dev\CPP\cpp-game-programming-course\cpp-game-programming-course.cpp(27,16): warning C4244: 'return': conversão de 'const float' para 'int', possível perda de dados
+  cpp-game-programming-course.vcxproj -> C:\Dev\CPP\cpp-game-programming-course\x64\Debug\cpp-game-programming-course.exe

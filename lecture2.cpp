@@ -47,6 +47,8 @@ public:
     }
 };
 
+void doSomeMachineLearning()
+
 int main(int argc, char* argv[])
 {
     Student s1;
