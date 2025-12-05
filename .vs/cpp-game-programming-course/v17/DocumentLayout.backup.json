@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E734FB4-7FEB-44B4-91E4-28E0EC8B039D}|cpp-game-programming-course.vcxproj|C:\\Dev\\CPP\\cpp-game-programming-course\\cpp-game-programming-course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E734FB4-7FEB-44B4-91E4-28E0EC8B039D}|cpp-game-programming-course.vcxproj|solutionrelative:cpp-game-programming-course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E734FB4-7FEB-44B4-91E4-28E0EC8B039D}|cpp-game-programming-course.vcxproj|C:\\Dev\\CPP\\cpp-game-programming-course\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0E734FB4-7FEB-44B4-91E4-28E0EC8B039D}|cpp-game-programming-course.vcxproj|solutionrelative:students.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\CPP\\cpp-game-programming-course\\lecture2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lecture2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "students.txt",
-              "DocumentMoniker": "C:\\Dev\\CPP\\cpp-game-programming-course\\students.txt",
-              "RelativeDocumentMoniker": "students.txt",
-              "ToolTip": "C:\\Dev\\CPP\\cpp-game-programming-course\\students.txt",
-              "RelativeToolTip": "students.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-04T04:31:43.352Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,22 +24,9 @@
               "RelativeDocumentMoniker": "cpp-game-programming-course.cpp",
               "ToolTip": "C:\\Dev\\CPP\\cpp-game-programming-course\\cpp-game-programming-course.cpp",
               "RelativeToolTip": "cpp-game-programming-course.cpp",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-03T19:19:23.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "lecture2.cpp",
-              "DocumentMoniker": "C:\\Dev\\CPP\\cpp-game-programming-course\\lecture2.cpp",
-              "RelativeDocumentMoniker": "lecture2.cpp",
-              "ToolTip": "C:\\Dev\\CPP\\cpp-game-programming-course\\lecture2.cpp",
-              "RelativeToolTip": "lecture2.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-03T19:18:59.192Z",
               "EditorCaption": ""
             }
           ]
